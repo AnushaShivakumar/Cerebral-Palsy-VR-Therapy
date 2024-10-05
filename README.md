@@ -36,21 +36,7 @@
 - **Interactive Gameplay**: Patients can play in a virtual world where they collect items, reach targets, and solve puzzles as part of their therapy.
 - **Toy Store Environment**: Children can explore the toy store, shop for toys, and play with them. The fun environment encourages longer playtime, translating to more effective therapy sessions.
 - **Progress Tracking**: Therapists can monitor the player’s progress and adjust the difficulty as needed based on the performance in the game.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <project-folder>
-   ```
-2. Open the project in **Unity** (version 2020.3 or later).
-3. Set up VR hardware (e.g., Oculus Rift, HTC Vive) and ensure the necessary drivers and SDKs are installed.
-4. Build the project for your platform (Windows/Mac) by navigating to:
-   ```
-   File > Build Settings
-   ```
-5. Select the appropriate VR settings for your hardware and build the project.
-
+  
 ### Usage
 1. Launch the VR game.
 2. Equip the VR headset and follow the on-screen prompts to start the therapy session.
